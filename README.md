@@ -1,4 +1,4 @@
-# Código de Conducta - ESTAS
+# Código de Conducta - ESTAS [DRAFT]
 
 ## Nuestro compromiso
 
