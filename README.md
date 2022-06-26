@@ -1,5 +1,7 @@
 # Código de Conducta - ESTAS [DRAFT]
 
+Código de conducta elaborado como parte del GitHub Campus Expert Program 2021 para la organización ESTAS
+
 ## Nuestro compromiso
 
 En ESTAS, como miembros, contribuyentes y líderes, nos comprometemos a participar en nuestra comunidad brindando experiencia libre de acoso para todos, independientemente de su edad, cuerpo tamaño, discapacidad visible o invisible, origen étnico, características sexuales, género identidad y expresión, nivel de experiencia, educación, situación socioeconómica, nacionalidad, apariencia personal, raza, religión o identidad sexual
